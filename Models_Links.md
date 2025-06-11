@@ -1,5 +1,7 @@
 # Trained Model Downloads
 
+The trained model weights for this project are hosted as Kaggle Models. **This approach is taken because trained deep learning models often exceed GitHub's file size limits (25MB for web uploads, 100MB for direct `git push`, and 1GB free quota for Git LFS), making Kaggle a more suitable and accessible platform for sharing these larger assets.**
+
 Below are the direct links to download the trained model weights for this project. These models are hosted on Kaggle.
 
 ## Simple CNN Model
