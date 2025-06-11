@@ -41,6 +41,14 @@ This project utilizes the publicly available **Chest X-Ray Images (Pneumonia)** 
 
 ---
 
+## 📦 Trained Models
+
+The trained model weights for this project are hosted as Kaggle Models. **This approach is taken because trained deep learning models often exceed GitHub's file size limits (25MB for web uploads, 100MB for direct `git push`, and 1GB free quota for Git LFS), making Kaggle a more suitable and accessible platform for sharing these larger assets.*
+
+The trained model weights for this project are hosted externally on Kaggle. For direct download links to each model, please refer to the dedicated [MODEL DOWNLOADS](MODELS.md) file in this repository.
+
+---
+
 ## 📈 Visualizations & Results
 
 The `visualizations/` folder contains key graphical insights into the models' performance, allowing for a direct comparison across different architectures:
