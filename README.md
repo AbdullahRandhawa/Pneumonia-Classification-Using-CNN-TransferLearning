@@ -86,6 +86,22 @@ These bar charts provide an overview of each model's accuracy on a sample batch 
 
   ---
 
+  ## 📦 Trained Models
+
+The trained model weights for this project are hosted as Kaggle Models. This approach ensures accessibility while adhering to GitHub's file size guidelines. You can download each model directly from its respective Kaggle Model page:
+
+* **Simple CNN Model:**
+    [Download Simple CNN Model](https://www.kaggle.com/models/abrandhawa/best_model/Keras/default/1)
+
+* **DenseNet121 Transfer Learning Model:**
+    [Download DenseNet121 TL Model](https://www.kaggle.com/models/abrandhawa/best_densenet121_model/Keras/default/1)
+
+* **VGG16 Transfer Learning Model:**
+    [Download VGG16 TL Model](https://www.kaggle.com/models/abrandhawa/best_vgg16_model/Keras/default/1)
+
+
+---
+
 ## 💻 Technologies Used
 
 * **Python**: Core programming language for data manipulation, deep learning, and visualization.
