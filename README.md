@@ -79,11 +79,12 @@ These bar charts provide an overview of each model's accuracy on a sample batch 
     ![Simple CNN Results Ratio](visualizations/simple_cnn_results_ratio.png)
 
 * **VGG16 Transfer Learning Prediction Ratio:**
-    ![VGG16 TL Results Ratio](visualizations/vgg16_TL_results_ ratio.png)
+    ![VGG16 TL Results Ratio](visualizations/vgg16_TL_results_ratio.png)
 
 * **DenseNet121 Transfer Learning Prediction Ratio:**
     ![DenseNet121 TL Results Ratio](visualizations/DenseNet121_TL_results_ratio.png)
----
+
+  ---
 
 ## 💻 Technologies Used
 
